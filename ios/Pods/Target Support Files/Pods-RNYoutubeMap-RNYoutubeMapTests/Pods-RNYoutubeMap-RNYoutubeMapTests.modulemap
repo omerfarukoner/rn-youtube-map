@@ -1,0 +1,6 @@
+module Pods_RNYoutubeMap_RNYoutubeMapTests {
+  umbrella header "Pods-RNYoutubeMap-RNYoutubeMapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
